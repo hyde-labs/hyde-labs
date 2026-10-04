@@ -1,4 +1,3 @@
-About me
 ## About me
 
 I build systems that turn fragmented operational information into structured, usable workflows.
